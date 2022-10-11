@@ -8,3 +8,5 @@
 - you must download these 3 files in the same folder, then open gui file with any editor (google colab or jupter notebook ...etc) and run it.
 - the output will be csv file/s in the same folder based on your choice in GUI.
 
+### updates 
+- i update with two versions in Google Colab, you can follow my instructions and run it directly.
